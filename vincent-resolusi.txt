@@ -2,3 +2,5 @@ Vincent Resolusi :
 - Konsisten Belajar Programming
 - Bisa Membuat Aplikasi dengan Node.js
 - Bisa Membuat Aplikasi dengan React.js
+- Bisa Mengoperasikan Node.js dengan Lancar
+- Bisa Mengoeperasikan React.js dengan Lancar
