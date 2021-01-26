@@ -1,0 +1,4 @@
+Vincent Resolusi :
+- Konsisten Belajar Programming
+- Bisa Membuat Aplikasi dengan Node.js
+- Bisa Membuat Aplikasi dengan React.js
